@@ -1,13 +1,13 @@
-package lavender.springframework.sfgpetclnic;
+package lavender.springframework.TestScheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SfgPetClnicApplication {
+public class TestSchedulerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SfgPetClnicApplication.class, args);
+        SpringApplication.run(TestSchedulerApplication.class, args);
     }
 
 }
